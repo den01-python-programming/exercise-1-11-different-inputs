@@ -1,33 +1,35 @@
-# Exercise 1.10 - Various Variables
+# Exercise 1.11 - Different Types of Input
 
-The exercise template comes with a program template that includes the function and its call.
+Write a program that asks the user for a string, an integer, a floating-point number, and a boolean. The program should then print the values given by the user.
+
+Example prints for the program can be seen below.
 
 ```python
-Chicken:
-3
-Bacon (kg):
-5.5
-Tractor:
-None!
-
-And finally, a summary:
-3
-5.5
-None!
+Give a string:
+*bye-bye*
+Give an integer:
+*11*
+Give a float:
+*4.2*
+Give a boolean:
+*True*
+You gave the string bye-bye
+You gave the integer 11
+You gave the float 4.2
+You gave the boolean True
 ```
 
-Modify the program in the given places so that it outputs the following:
-
 ```plaintext
-Chicken:
-9000
-Bacon (kg):
-0.1
-Tractor:
-Zero
-
-And finally, a summary:
-9000
-0.1
-Zero
+Give a string:
+*Oops!*
+Give an integer:
+*-4*
+Give a float:
+*3200.1*
+Give a boolean:
+*False*
+You gave the string Oops!
+You gave the integer -4
+You gave the float 3200.1
+You gave the boolean False
 ```
