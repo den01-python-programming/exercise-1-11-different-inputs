@@ -4,7 +4,7 @@ Write a program that asks the user for a string, an integer, a floating-point nu
 
 Example prints for the program can be seen below.
 
-```python
+```plaintext
 Give a string:
 *bye-bye*
 Give an integer:
